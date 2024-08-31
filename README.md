@@ -7,9 +7,14 @@
 - 🌱 I’m currently learning Full-Stack Development.
 
 - 🔭 Technologies I'm working with:
-  - Frontend: HTML, CSS, JavaScript, React
-  - Backend: Node.js
-  - Database: MongoDB
+  - Frontend : HTML, CSS, JavaScript, React
+  - Backend : Node.js
+  - Database : MongoDB
+    
+- 🛠️ Skills
+    - Languages : JavaScript, HTML, CSS
+    - Frameworks/Libraries : React, Node.js
+    - Tools : Git, GitHub, VS Code
 
 - 📫 **Email**: [sastiharikumar@gmail.com](mailto:sastiharikumar@gmail.com)
   
