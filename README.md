@@ -16,9 +16,11 @@
     - Frameworks/Libraries : React, Node.js
     - Tools : Git, GitHub, VS Code
 
-- 📫 **Email**: [sastiharikumar@gmail.com](mailto:sastiharikumar@gmail.com)
-  
-- 💼 **LinkedIn**: [linkedin.com/in/SASTI HARIKUMAR KL](www.linkedin.com/in/sasti-harikumar-kl)
+- Connect With Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/yourusername)
 
 
 <!---
