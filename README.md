@@ -15,7 +15,7 @@
     - Languages : JavaScript, HTML, CSS
     - Frameworks/Libraries : React, Node.js
     - Tools : Git, GitHub, VS Code
-      <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+    - <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
       <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -32,9 +32,10 @@
 
 - 📊 GitHub Stats
 
-    ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+   ![SASTIHARIKUMARKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SASTIHARIKUMARKL&show_icons=true&theme=radical)
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SASTIHARIKUMARKL&layout=compact&theme=radical)
+
 
 
 
