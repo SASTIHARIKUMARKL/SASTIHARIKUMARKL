@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sasti HariKumar KL
+
+- 📚 I am currently pursuing B.E-CSE in Hindusthan College of Engineering & Technology at Coimbatore
   
 - 👀 Aspiring Full-Stack Developer | Passionate about Learning & Building
   
