@@ -38,7 +38,7 @@
 
 📄 Resume
 
-   [![Resume Badge](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readthedocs)](https://drive.google.com/file/d/131RdCnVYaI9n2led23MMq5jQm1CNLg3k/view?usp=drive_link)
+   [![Resume Badge](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readthedocs)](https://drive.google.com/file/d/1pkeEikhiuxQFWGpbZwjx1Dmatf4MqaVa/view?usp=sharing)
  
 
 
